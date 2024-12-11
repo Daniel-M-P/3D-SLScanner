@@ -31,10 +31,11 @@ Be aware of the threshold used for masking the images.
 The rotation matrix and translation vector of the camaras have not been verified if they were calculated correctly.
 
 ## Referencias:
-https://www.instructables.com/DIY-3D-scanner-based-on-structured-light-and-stere/
-https://arxiv.org/pdf/1406.6595v1
-https://fpcv.cs.columbia.edu
+Inspiration project: https://www.instructables.com/DIY-3D-scanner-based-on-structured-light-and-stere/
 
-Código para la calibración:
-https://github.com/niconielsen32/ComputerVision/tree/master/stereoVisionCalibration
+Related paper: https://arxiv.org/pdf/1406.6595v1
+
+Classes about computer vision: https://fpcv.cs.columbia.edu
+
+OpenCv camera calibration: https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
 
