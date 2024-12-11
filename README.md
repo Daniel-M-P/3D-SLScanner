@@ -3,6 +3,10 @@ Python program for recreating a 3D model of an object using Structured Light Sca
 
 Code written with the help of AI.
 
+Flowchart:
+
+![Flowchart](diagrama_de_flujo.png)
+
 ## Files:
 
 pattern_creator.py: Creates gray patterns given a width and height of pixels to give each pixel an x and y gray binary value.
